@@ -1,5 +1,3 @@
-# WIPRO_TRAINING_CAPSTONE_PROJECT_MY_FINBANK
-
 # MyFin Bank – Microservices Banking Application 💳🏦
 
 ## 1. Project Overview 📝
